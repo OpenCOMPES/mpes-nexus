@@ -1,0 +1,9 @@
+# Sphinx
+docs/_build
+docs/latex
+
+# Notebooks
+examples/.ipynb_checkpoints
+
+# Word docs
+~$*.docx
