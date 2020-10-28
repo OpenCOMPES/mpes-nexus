@@ -1,5 +1,4 @@
-# Multidimensional photoemission spectroscopy data/metadata project - based on NeXus
-
+# Multidimensional photoemission spectroscopy data/metadata project
 Repository dedicated to community-wide drafting of a data/metadata schema for ARPES experiments.
 
 A common platform across the ARPES community is now becoming urgent. The potential of a standardized structure lies not only in the improved transparency of data publishing, but immediately and perhaps most importantly in the possibility of sharing all our tools. We could reduce drastically the time spent developing code for commonplace acquisition and analysis processes, shorten the learning curve of using different facilities, and retain the capability of processing data even long after it has been acquired. 
