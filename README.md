@@ -1,4 +1,4 @@
-# arpes-nexus-schema
+# Multidimensional photoemission spectroscopy data/metadata project - based on NeXus
 
 Repository dedicated to community-wide drafting of a data/metadata schema for ARPES experiments.
 
